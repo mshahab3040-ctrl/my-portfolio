@@ -50,7 +50,7 @@
               <input
                 type="text"
                 placeholder="Your Name"
-                className="w-full p-2 rounded-xl bg-transparent border border-white/10"
+                className="w-full p-2 rounded-xl bg-transparent"
               />
 
               <input
@@ -62,13 +62,13 @@
               <input
                 type="text"
                 placeholder="Subject"
-                className="w-full p-2 rounded-xl bg-transparent border border-white/10"
+                className="w-full p-2 rounded-xl bg-transparent "
               />
 
               <textarea
                 rows="5"
                 placeholder="Your Message"
-                className="w-full p-2 rounded-xl bg-transparent border border-white/10"
+                className="w-full p-2 rounded-xl bg-transparent"
               />
 
               <button
